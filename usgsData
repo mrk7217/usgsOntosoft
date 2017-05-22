@@ -1,0 +1,185 @@
+
+
+USGS Home 
+Contact USGS 
+Search USGS 
+Water Resources of the United States
+	•	Home
+	•	Data
+	•	Maps
+	•	Software
+	•	Publications
+	•	Glossaries
+	•	Contact
+	•	Alphabetical General Use Water Quality and Chemistry Groundwater Statistics & Graphics Surface Water 
+Water Resources Software
+This software and related material (data and documentation) are made available by the U.S. Geological Survey (USGS) to be used in the public interest and the advancement of science. You may, without any fee or cost, use, copy, modify, or distribute this software, and any derivative works thereof, and its supporting documentation, subject to the USGS software User's Rights Notice.
+You may obtain other electronic or print versions of USGS reports and documentation that are not included with the software distributions.
+Alphabetical list
+	•	1DTempPro (WIN) Version 2.0, 2015/07/23 A graphical software package to visually calibrate one-dimensional VS2DH models against measured data, and estimate vertical groundwater/surface-water exchange.
+	•	AIRSLUG (DOS/DG/SGI/Sun) Version 1.1, 1996/03/12 A Fortran program to generate type curves to interpret the recovery data from prematurely terminated air-pressurized slug tests
+	•	Alkalinity Calculator (online) Version 2.20 The Alkalinity Calculator will analyze the titration curve and calculate the alkalinity or acid neutralizing capacity (ANC) of a sample
+	•	AnalyzeHOLE (Win) Version 1.0.1, 2009/10/19 An Integrated Wellbore Flow Analysis Tool
+	•	ANNIE (DOS/Sun) Version 4.1, 2002/02/25 Interactive Hydrologic Analyses and Data Management
+	•	AQTESTSS (Win) Version 1.2, 2004/07/02 Several spreadsheets for the analysis of aquifer-test and slug-test data
+	•	BAT3 Analyzer (Win) Version 1.0.0.0, 2008/01/31 Real-Time Data Display and Interpretation Software for the Multifunction Bedrock-Aquifer Transportable Testing Tool (BAT3)
+	•	BIOMOC (DOS/DG/SGI/Sun) Version 1.0, 1999/03/10 A multispecies solute-transport model with biodegradation
+	•	BLTM (DG) Version 1.2, 1996/11/04 Branched Lagrangian Transport Model
+	•	BRANCH (DOS/DG/Sun) Version 4.3, 1997/06/05 Branch-Network Dynamic Flow Model
+	•	BSDMS (DOS/DG) Version 2.1, 1996/03/01 Bridge Scour Data Management System
+	•	CAP (Win/Mac/DOS/Sun) Version 2.0 and 1.0, 2013/07/31 Culvert Analysis Program
+	•	CFP (WIN) Version 1.8.00, 2011/02/23 A variant of MODFLOW-2005 for simulation of laminar and turbulent flow in pipe networks that exchange water with model cells and or in horizontal preferential flow layers
+	•	CGAP (DOS/DG/Sun) Version 3.5, 1995/10/06 Channel Geometry Analysis Program
+	•	Chemical Mixtures Software (Linux/Win) Version 1.0, 2013/07/01 The chemical mixtures software is a collection of computer programs for investigating the composition, occurrence, distribution, and potential toxicity of chemical mixtures
+	•	CRT (DOS) Version 1.3, 2016/12/09 Cascade Routing Tool to Define and Visualize Flow Paths for Grid-Based Watershed Models
+	•	DOTABLES (online) Version 3.5, 2013/01/14 Dissolved oxygen solubility tables
+	•	DR3M (DOS/DG) Version 2.1, 1996/03/01 Distributed Routing Rainfall-Runoff Model
+	•	EXTRACTOR (Win) Version 1.0, 2005/05/04 Extracts data from MODFLOW head or drawdown files or from MODFLOW-GWT.
+	•	feq (DOS/Sun) Version 4.1 Interactive Hydrologic Analyses and Data Management
+	•	FEQ (DOS) Version 10.60, 2009/03/31 Full EQuations Model
+	•	FESWMS-2DH (DG) Version 1.10.DG1, 1995/06/07 Finite-element surface-water modeling system for two-dimensional flow in the horizontal plane
+	•	Five MODFLOW Utilities (DOS/Win) Version 1.2.1, 2011/09/01 Five MODFLOW Groundwater Modeling Utility Programs
+	•	FLASH (Win) Version 1.0, 2011/03/07 A Computer Program for Flow-Log Analysis of Single Holes
+	•	FourPt (DG/Sun) Version 95.01, 1997/06/04 An unsteady, one-dimensional, open-channel flow model
+	•	FRGT-MST (WIN) Version 1.0, 2016/01/06 Excel-based tool to assist project managers in selecting appropritate geophysical tool
+	•	GAMACTT (online) Version 1.0, 2014/08/28 'Groundwater Age Mixtures and Contaminant Trends Tool' is an interactive educational webtool illustrating effects of groundwater age distributions on nonpoint-source contamination responses of wells and groundwater discharges.
+	•	GCLAS (Unix/Win) Version 2.00, 2017/01/18 Graphical Constituent Loading Analysis System
+	•	GenScn (Win) Version 1.0, 1998/08/14 GENeration and analysis of model simulation SCeNarios
+	•	GLSNet (DOS/DG) Version 4.0, 2005/01/27 Regional hydrologic regression and NETwork analysis using Generalized Least Squares
+	•	GNWISQ (Windows) Version 1.1, 2014/09/15 Obtaining and analyzing daily mean streamflow data from the U.S. Geological Survey National Water Information System Web Site: Get National Water Information System Streamflow (Q) files
+	•	GRIDGEN (WIN) Version 1.00.02, 2017/01/06 Program for generating layered quadtree grids for MODFLOW-USG
+	•	Groundwater_Toolbox (WIN) Version 1.3.0, 2017/04/15 A graphical and mapping interface for analysis of hydrologic data. Includes the hydrograph-analysis programs BFI, HYSEP, PART, and RORA (with RECESS).
+	•	GSFLOW (Linux/Win) Version 1.2.1, 2016/10/01 Coupled Groundwater and Surface-water FLOW model based on the USGS Precipitation-Runoff Modeling System (PRMS) and Modular Groundwater Flow Model (MODFLOW-2005)
+	•	GWM (WIN) Version 1.5.2, purportedly 2015-09-11 Groundwater Management Process for MODFLOW using optimization. Current Versions include GWM-2005 and GWM-VI
+	•	GW_Chart (Windows) Version 1.29.0.0, 2015/11/29 GW_Chart: a program for creating specialized graphs used in groundwater studies.
+	•	HSPexp (DOS/DG) Version 2.4, 2002/06/26 Expert System for Calibration of HSPF
+	•	HSPF (DOS/DG) Version 11.0, 1996/03/01 Hydrological Simulation Program--Fortran
+	•	HST3D (Unix/Linux/Win) Version 2.2.16, 2010/10/21 Three-dimensional flow, heat, and solute transport model
+	•	HUFPrint (DOS/Win) Version 1.2.2, 2013/05/17 A tabulation and visualization utility for the Hydrogeologic-Unit Flow (HUF) Package of MODFLOW
+	•	HydroClimATe (WIN) Version 1.0.0, 2014/03/07 Computer program for assessing the relations among variable climatic and hydrologic time-series data
+	•	HyDroDSS (Windows) Version 1.0.0.0, 2014/03/27 Hydrologic Drought Decision Support System
+	•	HYDROTHERM (Linux/Win) Version 3.1.0, 2008/03/01 Three-dimensional finite-difference model to simulate multiphase groundwater flow and heat transport in the temperature range of 0 to 1,200 degrees Celsius
+	•	INFIL3.0 (Win) Version 1.0, 2008/06/19 A grid-based, distributed-parameter watershed model to estimate net infiltration below the root zone
+	•	IOWDM (DOS/Sun) Version 4.1, 2002/02/25 Input and Output for a Watershed Data Management (WDM) file
+	•	JUPITER API (DOS/Win) Version 1.7.3, 2013/8/6 The Joint Universal Parameter IdenTification and Evaluation of Reliability Application Programming Interface
+	•	KTRLine (Win) Version 1.0, 2010/01/11 Kendall-Theil Robust Line
+	•	LIBANNE (DOS/Sun) Version 4.0, 2002/02/25 A collection of related libraries for use in hydrologic applications
+	•	LIBHSP Version 11.1 A collection of related libraries for the Hydrological Simulation Program--Fortran (HSPF)
+	•	LIBUTL (DOS/DG/Sun) Version 6.0, 1997/02/05 Utility libraries for interactive prompting, device-independent graphics, and time-dependent data base access
+	•	LIMS for Light Stable Isotopes (Win) Version 8.15.64, 2007/06/16 A Laboratory Information Management System (LIMS) based on Microsoft Access for managing samples, analyses, and other data in a stable isotope (and tritium , carbon-14, and chlorofluorocarbon) laboratory
+	•	LOADEST (Linux/Unix/Win) Homepage for LOADEST software distributed by the U.S. Geological Survey
+	•	MEASERR (DOS/DG/Sun) Version 2.5, 1994/04/19 A Program for Determination of Error in Individual Discharge Measurements
+	•	MF2K-FMP and MF2005-FMP2 (Win) Version 1.0.00 and 1.0.00, 2009/10/28 and 2006/05/19 Farm Process: Estimate dynamically integrated supply-and-demand components of irrigated agriculture as part of the simulation of surface-water and ground-water flow based on MODFLOW-2000 and MODFLOW-2005
+	•	MF2K-GWT (DOS/Unix) Version 1.9.8, 2007/10/22 Three-dimensional groundwater flow and solute-transport model integrated with MODFLOW-2000
+	•	MF2K-VSF (Win) Version 1.01, 2006/07/05 Three-Dimentional finite-difference groundwater model (MODFLOW)—2000 version—with variably saturated flow
+	•	MkDF (Windows) Version 1.0, 2009/12/15 Obtaining and analyzing daily mean streamflow data from the U.S. Geological Survey National Water Information System Web Site: Make U.S. Environmental Protection Agency DFLOW3 batch-input files
+	•	MkPP (Windows) Version 1.0, 2009/12/15 Obtaining and analyzing daily mean streamflow data from the U.S. Geological Survey National Water Information System Web Site: Make Plotting Position
+	•	MMA (Sun/DOS) Version 1.210, 2011/09/01 A computer code for analysis of multiple models of the same system using the same observations for calibration
+	•	MODEIN (DOS/DG/Sun) Version 1.4, 1998/01/16 Computation of total sediment discharge by the modified Einstein procedure
+	•	Model Viewer (Win) Version 1.6, 2012/09/24 Model Viewer is a computer program that displays the results of three-dimensional groundwater models
+	•	ModelMate (DOS/Win) Version 1.0.3, 2016/2/16 A graphical user interface (GUI) for model analysis. ModelMate supports UCODE_2005 or UCODE_2014 (UCODE), MODFLOW-2005 (MODFLOW), and ModelMuse.
+	•	ModelMuse (Windows) Version 3.9.0.0, 2017/4/13 ModelMuse: A Graphical User Interface for MODFLOW-2005, MODFLOW-LGR, MODFLOW-LGR2, MODFLOW-NWT, MODFLOW-CFP, MODFLOW-OWHM, MT3DMS, SUTRA, PHAST, MODPATH, and ZONEBUDGET
+	•	MODFE (DG/Sun) Version 1.2, 1998/07/08 Modular finite-element model for areal and axisymmetric ground-water flow problems
+	•	MODFLOW, MODFLOW-2005, and related programs Three-dimensional finite-difference groundwater model. Codes included on this link include MODPATH, RADMOD, and ZONEBUDGET.
+	•	MODFLOW-GUI (Win) Version 4.35.0.0, 2013/11/29 Graphical Pre- and post-processor for use with the MODFLOW, MOC3D, MF2K-GWT, MT3DMS, MODPATH, and ZONEBUDGET models, for use within Argus ONE
+	•	MODFLOW-NWT (WIN) Version 1.1.2, 2016/09/15 A Newton-Raphson formulation for MODFLOW-2005 to improve solution of unconfined groundwater-flow problems
+	•	MODFLOW-OWHM (WIN) Version 1.00.00, 2014/11/05 MODFLOW-based integrated hydrologic flow model for the analysis of human and natural water movement within a supply-and-demand framework
+	•	MODFLOW-USG (WIN) Version 1.3.0, 2015/12/01 Unstructured grid version of MODFLOW for simulating groundwater flow and tightly coupled processes
+	•	MODOPTIM (Win) Version 1.0, 2005/05/05 A General Optimization Program for Groundwater Flow Model Calibration and Groundwater Management in MODFLOW
+	•	MT3D-USGS (Win) Version 1.0.0, 2016/09/30 Groundwater solute transport simulator for MODFLOW
+	•	NCALC (DOS/DG/Sun) Version 2.6, 1995/03/30 Manning's n value calculation program
+	•	NETPATH (Mac/Unix/Linux/Win) Version 1.4.0-7869, purportedly 2013/06/31 An interactive code for modeling NET geochemical reactions along a flow PATH
+	•	NFF (Win) Version 3.2, 2003/04/30 National Flood Frequency program
+	•	NSS (Win) Version 6.1, 2015/05/06 National Streamflow Statistics program
+	•	NWIS Web Services Snapshot Tool for ArcGIS (Win) Version 2.0, 2012/06/06 ArcMap add-in for retrieving and managing data from NWIS Web Services
+	•	OPR-PPR (Win/DOS) Version 1.01, 2016/01/31 A Computer Program for Assessing Data Importance to Model Predictions Using Linear Statistics
+	•	OTEQ (Linux/Unix) Homepage for OTEQ software distributed by the U.S. Geological Survey
+	•	OTIS (Linux/Sun/Unix/Win), 1998/04/20 One-dimensional transport with inflow and storage (OTIS): A solute transport model for streams and rivers
+	•	PART (Win) Version 2.0, 2016/08/22 A computerized method of base-flow-record estimation
+	•	PeakFQ (Win) Version 7.1, 2014/03/14 Flood-frequency analysis based on Bulletin 17B
+	•	PHAST (Linux/Win) Version 2.4.6-8538, 2014/03/24 A program for simlulating ground-water flow, solute transport, and multicomponent geochemical reactions
+	•	PHREEQC (Mac/Linux/Win) Version 3.2.0-9820, 2015/06/10 A Computer Program for Speciation, Batch-Reaction, One-Dimensional Transport, and Inverse Geochemical Calculations.
+	•	PhreeqcI (Win) Version 3.2.0-9820, 2015/06/10 Graphical user interface for PHREEQC
+	•	PhreeqcRM (Win) Version 3.2.0, 2015/06/20 PhreeqcRM is a module for use as a reaction engine for operator-splitting reactive-transport models.
+	•	PHRQCGRF (Win) Version 2.2, 2000/03/23 A Computer Program for Graphical Interpretation of PHREEQC Geochemical Transport Simulations
+	•	PRMS (Win/Linux) Version 4.0.1, 2015/03/15 Precipitation-Runoff Modeling System (PRMS)
+	•	PULSE (Win), 2007/01/29 Model-Estimated Groundwater Recharge and Hydrograph of Groundwater Discharge to a Stream
+	•	QSTATS (Windows) Version 1.1, 2014/09/15 Obtaining and analyzing daily mean streamflow data from the U.S. Geological Survey National Water Information System Web Site: Streamflow (Q) Statistics
+	•	R-UNSAT, 2006/04/24 Reactive, multispecies transport in a heterogeneous, variably-saturated porous media
+	•	RECESS (Win) Version 2.0, 2016/08/22 A computer program for analysis of streamflow recession
+	•	Redox Processes Workbook (Win) Version 1.0, purportedly 2009/01 An Excel® Workbook for Identifying Redox Processes in Ground Water
+	•	RORA (Win) Version 2.0, 2016/08/22 The recession-curve-displacement method for estimating recharge
+	•	RRAWFLOW (Win/Unix/Mac) Version 1.16, 2015/04/20 An R Package providing a lumped-parameter model that simulates streamflow, springflow, groundwater level, solute transport, or cave drip for a measurement point in response to a system input of precipitation, recharge, or solute injection
+	•	SAC (Win/Mac/DOS/Sun) Version 2.0 and 1.0.03, 2012/10/05 Slope-Area Computations
+	•	Scenario Tools: Scenario Manager and Scenario Analyzer (DOS/Win) Version 1.0.0, 2014/04/15 Scenario Tools: Scenario Manager and Scenario Analyzer, Graphical user interfaces for managing and analyzing MODFLOW groundwater model scenarios.
+	•	SEAWAT Version 4.00.05, 2012/10/19 A computer program for simulation of three-dimensional variable-density groundwater flow and transport
+	•	seawaveQ (Win/Unix/Mac) Version 1.0, 2013/12/30 An R Package Providing a Model and Utilities for Analyzing Trends in Chemical Concentrations in Streams with a Seasonal Wave (seawave) and Adjustment for Streamflow (Q) and Other Ancillary Variables
+	•	SEDSIZE (DOS/DG/Sun) Version 1.9, 1997/06/02 Particle-size statistics of fluvial sediments
+	•	SELDM (Win) Version 1.0.0.0, 2013/03/27 Stochastic empirical loading and dilution model
+	•	SeriesSEE (Win) Version 1.00, 2012/12/21 A spreadsheet add-in for viewing time series and modeling water levels
+	•	SHARP (DOS/DG/SGI/Sun) Version 1.1, 2004/09/03 A quasi-three-dimensional, numerical finite-difference model to simulate freshwater and saltwater flow separated by a sharp interface in layered coastal aquifer systems
+	•	SPARROW (Win/Sun) Version 2.6, 2006/08/09 SPAtially Referenced Regressions On Watershed attributes
+	•	SPREADBAL-2002 Documentation for the mineral mass balance spreadsheet referenced in Bowser and Jones (2002) American Journal of Science v. 302 p. 582-662.
+	•	SREF (Windows) Version 1.0, 2009/12/15 Obtaining and analyzing daily mean streamflow data from the U.S. Geological Survey National Water Information System Web Site: Streamflow Record Extension Facilitator
+	•	STLK1 and STWT1 (Win) Version 1.0, 2009/12/04 Computer programs for analysis of hydraulic interaction of stream-aquifer systems
+	•	StreamStats (online) Version 2, 2011/01/07 StreamStats streamflow statistics web application
+	•	STRMDEPL08 Version 1.1, 2010/01/26 A computer program using analytical solutions to calculate streamflow depletion by a nearby pumping well
+	•	SUTRA and related programs 2D, 3D, variable-density, variably-saturated flow, solute or energy transport
+	•	SUTRA-MS (DOS) Version 1.1, 2014/01/15 A version of SUTRA for simulating heat and multiple-solute transport
+	•	SWB (Win) Version 1.0.1, 2011/10/03 A modified Thornthwaite-Mather Soil-Water-Balance code for estimating groundwater recharge
+	•	SWPROD (DG) Version 1.2, 1996/03/18 Determination of Primary Productivity and Community Metabolism in Streams and Lakes using Diel Oxygen Measurements
+	•	SWSTAT (DOS/Sun) Version 4.1, 2002/02/25 Surface-Water Statistics
+	•	SYSDOC (DG) Version 1.0, 1996/03/01 System Documentation for Fortran Source Code
+	•	TDDS (DOS/DG/Sun) Version 6.0, 1997/03/06 Time-Dependent Data System for Simulation Models
+	•	TopoDrive and ParticleFlow (Sun/Win) Version 1.0, 2002/02/13 Two Computer Models for Simulation and Visualization of Groundwater Flow and Transport of Fluid Particles in Two Dimensions
+	•	TracerLPM (Win) Version 1, 2012/07/19 A computer program for interpreting groundwater age distributions from environmental tracer data by using lumped parameter models
+	•	UCODE_2014 (DOS/UNIX) Version 1.004, 2016/02/18 A computer code for universal inverse modeling.
+	•	USGS Library for S-PLUS (Win) Version 4.0, 2011/07/13 A collection of functions, dialogs, and datasets for use in hydrologic applications
+	•	Utility_PIEs (Windows) Version 1.10.1.0, 2014/03/06 Utility PIEs: Programs for simplifying the analysis of geographic information in U.S. Geological Survey ground-water models for use within Argus Open Numerical Environments (Argus ONE)
+	•	VS2DH (Sun/Win) Version 3.2, 2004/10/18 Model for simulating water flow and energy transport in variably saturated porous media
+	•	VS2DI (Win) Version 1.2, 2004/10/18 A graphical software package for simluating fluid flow and solute or energy transport in variably saturated porous media
+	•	VS2DT (Sun/Win) Version 3.2, 2004/10/18 Model for simulating water flow and solute transport in variably saturated porous media
+	•	WATEQ4F (DOS) Version 3.00, 2011/03/10 A program for calculating speciation of major, trace, and redox elements in natural waters
+	•	waterData (Win/Unix/Mac) Version 1.0, 2012/10/12 An R Package for Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data
+	•	WREG (Win) Version 1.05, 2013/05/08 Weighted-multiple-linear REGression
+	•	WSPRO (DOS/DG/Sun) Version V060188, 1996/01/17 A Computer Model for Water-Surface PROfile Computations
+	•	WTAQ (Win) Version 2.1, 2012/06/29 A computer program for calculating drawdowns and estimating hydraulic properties for confined and water-table aquifers
+	•	ZONECONC (Win) Version 1.5, 2005/10/25 A postprocessing program that tabulates concentration statistics from concentration data generated by MODFLOW-GWT
+Legacy and Superseded software, and software that is not actively supported by the USGS
+	•	AIR2D, AIR3D, 1998/04/20 Simulate the movement of air to or from a single borehole screened in the unsaturated zone. Three dimensional air-flow in a heterogeneous, anisotropic unsaturated zone where air flow is induced through dry wells or trenches, as in vapor-extraction remediation
+	•	ANALGWST (DG) Version 1.1, 1996/04/03 A set of programs that calculate analytical solutions for one-, two-, and three-dimensional solute transport in ground-water systems with uniform flow
+	•	BALNINPT (DOS/DG/Sun) Version 1.9, 1994/11/14 An interactive program for mass-balance calculations (superseded by NETPATH and PHREEQC)
+	•	Budgeteer (Win) Version 1.0.6.0, 2001/07/09 Postprocessor for MODFLOW, MOC3D, SUTRA, MT3D, and ZONEBDGT (superseded by GW_Chart)
+	•	CONTOUR (DG/SGI/Sun) Version 2.5, 1996/01/24 A contouring program for gridded data
+	•	DDestimate (Win) Version 1.1, 2007/07/10 A spreadsheet application for simulating time series and estimating drawdowns.
+	•	E431 (DG/Sun) Version 83.180, 1995/11/22 Step-Backwater and Floodway Analyses (superseded by WSPRO)
+	•	Edit Contours PIE (Win) Version 2.1.0.0 Utility Plug-in for editing contours and importing data from spreadsheets for use within Argus Open Numerical Environments ,Argus ONE (superseded by Utility PIEs)
+	•	Edit Data Layer PIE (Win) Version 2.0.0.0, 2001/07/09 Utility Plug-in for editing data in data layers and importing data from spreadsheets for use within Argus Open Numerical Environments, Argus ONE (superseded by Utility PIEs)
+	•	GoPhast (Linux/Win) Version 1.0.9.0, 2008/05/13 Graphical User Interface for PHAST (superseded by ModelMuse)
+	•	HYSEP (DOS/DG/Sun) Version 2.2, 1997/06/10 Hydrograph Separation Program
+	•	LIB (DG) Version 3.2, 1998/06/29 A collection of related libraries for use in hydrologic applications (superseded by LIBANNE and LIBHSP)
+	•	MFI (DOS/DG) Version 2.3, 1996/12/06 Data input program for MODFLOW, MODPATH, and MOC3D (superseded by MFI2k and MFI2005)
+	•	MOC (DOS/DG/Mac/SGI/Sun) Version 3.2.2, 1996/01/22 Two-dimensional method-of-characteristics ground-water flow and transport model (superseded by MF2K-GWT)
+	•	MOC3D (DOS/DG/Mac/SGI/Sun) Version 3.52, purportedly 2004/01 3D method-of-characteristics groundwater flow and transport model integrated with MODFLOW-96 (superseded by MF2K-GWT)
+	•	MOCDENSE (DOS/DG/SGI/Sun) Version 3.2, purportedly 1995/01 A two-constituent solute transport model for ground water having variable density (most simulation functions of MOCDENSE are now supported by the SEAWAT code)
+	•	MODFLOWP (DOS/DG/Sun) Version 3.2, 1997/10/09 Parameter-Estimation Version of the Modular Model (superseded by MODFLOW-2000)
+	•	NACT.tbx (Win) Version 1.0, 2010/11/04 NAWQA Area-Characterization Toolbox (NACT.tbx, ArcGIS 9.3.x)
+	•	PHREEQE (DG/Sun/Unix/Win) Version 2.4, 1994/06/27 A Computer Program for Geochemical Calculation (superseded by PHREEQC)
+	•	PHRQPITZ A Computer Program Incorporating Pitzer's Equations for Calculation of Geochemical Reactions in Brines (superseded by PHREEQC)
+	•	Reed Type Curves, purportedly 1980 Type curves for selected problems of flow to wells in confined aquifers
+Abbreviations for OSs
+Computer systems for which software distribution packages have been compiled are shown in parentheses following the software name; abbreviations used are defined as follows:
+	•	DOS - IBM-compatible PC, 386 or higher with math coprocessor
+	•	DG - Data General AViiON DG/UX
+	•	Linux - Red Hat 6.1 for i386
+	•	Mac - Macintosh
+	•	SGI - Silicon Graphics Indigo
+	•	Sun - Sun SPARCstation Solaris
+	•	Win - Microsoft Windows
+	•	online - the application runs directly from its webpage.
+New or Recently Updated Software
+Software which has a recent release date will be annotated with one of three icons, in descending level of visual imperative.
+ – released in last 28 days  – released in last 56 days  – released in last 112 days 
+A separate web page is available listing recently updated software.
+Accessibility FOIA Privacy Policies and Notices 
+ U.S. Department of the Interior | U.S. Geological Survey URL: https://water.usgs.gov/software/lists/alphabetical Page Contact Information: Water Webserver Team Page Last Modified: Thu May 18 17:00:57 2017 
