@@ -1,18 +1,43 @@
-#5/18/17
+#5/23/17
 #GOAL: parse data from USGS water resources software list into something
-#uploadable to the ontosoft portal for USGS.
+#uploadable to the ontosoft portal for USGS. Use this formatted data and upload
+#to USGS Ontosoft portal
 
 from urllib.request import urlopen
-import requestss
+import requests
+import json
 
-def main():
+def main(): #not working yet
     #readURL(url, fileName)
     usgsData = getInfo('usgsData')
+    url = 'http://usgs.ontosoft.org/repository/login'
 
-def testAPI():
-    #url = '' NEED URL FOR LOGIN
-    cred = {'credentials': {'username': 'mrk7217', 'password': 'testPassword'}}
-    response = requests.post(url, data = cred)
+def authenticateUser(url, username, password):
+    '''Authenticates user and password on usgs portal of ontosoft
+    input: string username, password
+    output: string session id'''
+    cred = {'name': username, 'password': password}
+    headers = {'content-type':'application/json'}
+    response = requests.post(url, data = json.dumps(cred), headers = headers)
+    content = json.loads(response.content.decode('utf-8'))
+    return content['sessionString']
+
+def postSoftware(softwareInfo, sessionID):
+    '''Adds software to USGS Ontosoft portal with softwareInfo given in the format
+    [name, description, os, version].
+    Input: list softwareInfo, string sessionID
+    Output: none'''
+    #still need to add values information for description, os and version
+    url = 'http://usgs.ontosoft.org/repository/software'
+    headers = {'content-type': 'application/json','X-Ontosoft-Session':sessionID}
+    nameInfo = {"@type":"TextEntity", "type":"http://ontosoft.org/software#TextEntity"}
+    values = {}
+    nameInfo['value'] = softwareInfo[0]
+    values["http://ontosoft.org/software#hasName"] = [nameInfo]
+    data = {"@type":"Software","value":values,"label":softwareInfo[0]}
+    response = requests.post(url, data = json.dumps(data), headers = headers)
+    return response
+
 
 def readURL(url, fileName):
     ''' Reads a given URL into a text file.
