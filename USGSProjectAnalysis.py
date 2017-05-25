@@ -36,18 +36,14 @@ def postSoftware(softwareInfo, sessionID):
     headers = {'content-type': 'application/json','X-Ontosoft-Session':sessionID}
     nameInfo = {"@type":"TextEntity", "type":"http://ontosoft.org/software#TextEntity"}
     descInfo = {"@type":"TextEntity", "type":"http://ontosoft.org/software#TextEntity"}
-    versionInfo = {"@type":"EnumerationEntity", "id":"http://usgs.ontosoft.org/repository/software/SoftwareVersion", "type":"http://ontosoft.org/software#SoftwareVersion"}
     for os in softwareInfo[2]:
         osVals += [{"@type":"EnumerationEntity", "type":"http://ontosoft.org/software#OperatingSystem", "value": os}]
-    print(osVals)
     values = {}
     nameInfo['value'] = softwareInfo[0]
     descInfo['value'] = softwareInfo[1]
-    versionInfo['value'] = softwareInfo[3]
     values["http://ontosoft.org/software#hasName"] = [nameInfo]
     values["http://ontosoft.org/software#hasShortDescription"] = [descInfo]
     values["http://ontosoft.org/software#supportsOperatingSystem"] = osVals
-    values["http://ontosoft.org/software#hasSoftwareVersion"] =[versionInfo]
     data = {"@type":"Software","value":values,"label":softwareInfo[0]}
     response = requests.post(url, data = json.dumps(data), headers = headers)
     return response
